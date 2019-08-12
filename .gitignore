@@ -1,3 +1,4 @@
+.DS_Store
 node_modules/**/*
 .expo/*
 npm-debug.*
@@ -8,4 +9,8 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
+package-lock.json
 yarn.lock
+android/.gradle
+android/app/build
+android/build
